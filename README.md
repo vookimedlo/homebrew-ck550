@@ -10,4 +10,10 @@ brew tap vookimedlo/homebrew-ck550
 brew cask install ck550-macos
 ```
 
+Later, to upgrade the CK550-MacOS application, use the following command. 
+
+```
+brew cask upgrade ck550-macos
+```
+
 [1]: https://github.com/vookimedlo/ck550-macos
