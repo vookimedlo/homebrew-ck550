@@ -1,7 +1,7 @@
 cask 'ck550-macos' do
-version '2019.01.27'
-url 'https://github.com/vookimedlo/homebrew-ck550/releases/download/v2019.01.27/CK550_MacOS_Effect_Controller-20190127-NoUpdater.zip'
-sha256 '624b9ec35e42a215e32d240bda842e09cd59488eb31e3c521d33c02ce7529283'
+version '2019.05.08'
+url 'https://github.com/vookimedlo/homebrew-ck550/releases/download/v2019.05.08/CK550_MacOS_Effect_Controller-20190508-NoUpdater.zip'
+sha256 '9ffca64b2459153a8616772c97caa498bec906ff13cc4ac93e0138340c778aa8'
 
 name 'CK550 MacOS Effect Controller'
 homepage "https://github.com/vookimedlo/ck550-macos"
